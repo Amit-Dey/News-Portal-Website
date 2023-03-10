@@ -43,3 +43,6 @@ propositions to attract users and generate revenue.
 - [Amit Dey](https://github.com/Amit-Dey)
 - [Nibras Ullah](https://github.com/Nibras-Nib)
 - [Ziaul Hoque](https://github.com/ZiaulHoqueKhasru)
+
+## Live Web Link
+> [https://amit-dey.github.io/News-Portal-Website/](https://amit-dey.github.io/News-Portal-Website/)
